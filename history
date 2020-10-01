@@ -1,0 +1,58 @@
+<pre><font color="#4E9A06"><b>hruv@dhruv-VirtualBox</b></font>:<font color="#3465A4"><b>~</b></font>$ history
+    1  sudo apt get install gcc
+    2  history
+    3  whoami
+    4  pwd
+    5  ls -l
+    6  ls -
+    7  ls -a
+    8  ls -la
+    9  rmdir dhruv
+   10  mkdir dhruv
+   11  man mkdir
+   12  ls
+   13  ls -l
+   14  tree
+   15  sudo snap install tree
+   16  tree
+   17  cd dhruv
+   18  pwd
+   19  sh
+   20  ls -la
+   21  pwd
+   22  cd .
+   23  pwd
+   24  cd ..
+   25  pwd
+   26  whoami
+   27  ls -l
+   28  ls -la
+   29  cd .
+   30  pwd
+   31  ls -la
+   32  tree
+   33  cd ..
+   34  pwd
+   35  ls
+   36  ls -ll
+   37  cd ..
+   38  pwd
+   39  cd/home/dhruv/
+   40  cd/home/dhruv
+   41  cd /home/dhruv
+   42  cd ~
+   43  cd
+   44  pwd
+   45  ls -l
+   46  rmdir dhruv
+   47  ls -l
+   48  h^c
+   49  ls
+   50  ls -l
+   51  cat b.txt
+   52  echo abcd &gt;&gt; b.txt
+   53  ls -lt
+   54  cat b.txt
+   55  hexdump -c b.txt
+   56  history
+</pre>
