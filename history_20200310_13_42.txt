@@ -1,0 +1,270 @@
+    1  sudo apt get install gcc
+    2  history
+    3  whoami
+    4  pwd
+    5  ls -l
+    6  ls -
+    7  ls -a
+    8  ls -la
+    9  rmdir dhruv
+   10  mkdir dhruv
+   11  man mkdir
+   12  ls
+   13  ls -l
+   14  tree
+   15  sudo snap install tree
+   16  tree
+   17  cd dhruv
+   18  pwd
+   19  sh
+   20  ls -la
+   21  pwd
+   22  cd .
+   23  pwd
+   24  cd ..
+   25  pwd
+   26  whoami
+   27  ls -l
+   28  ls -la
+   29  cd .
+   30  pwd
+   31  ls -la
+   32  tree
+   33  cd ..
+   34  pwd
+   35  ls
+   36  ls -ll
+   37  cd ..
+   38  pwd
+   39  cd/home/dhruv/
+   40  cd/home/dhruv
+   41  cd /home/dhruv
+   42  cd ~
+   43  cd
+   44  pwd
+   45  ls -l
+   46  rmdir dhruv
+   47  ls -l
+   48  h^c
+   49  ls
+   50  ls -l
+   51  cat b.txt
+   52  echo abcd >> b.txt
+   53  ls -lt
+   54  cat b.txt
+   55  hexdump -c b.txt
+   56  history
+   57  sudo apt update
+   58  gitclone https://github.com/dhruv510/RTR105 
+   59  sudo apt install git
+   60  gitclone https://github.com/dhruv510/RTR105 
+   61  git clone https://github.com/dhruv510/RTR105 
+   62  mv history >history RTR105/
+   63  git add .
+   64  git add
+   65  ls -l
+   66  cd RTR105
+   67  ls -l
+   68  git add
+   69  git add .
+   70  git commit 20200110_15_07  
+   71  git commit -m 20200110_15_07  
+   72  git commit -m20200110_15_07  
+   73  git confing --global user.name "dhruv savani"
+   74  git add --all
+   75  git commit -m 20200110_15_15
+   76  git confing --global savani.dhruv "dhruv savani"
+   77  git push
+   78  git status
+   79  cd RTR108
+   80  cd..
+   81  cd ..
+   82  pwd
+   83  cd RTR108
+   84  ls -la
+   85  ls 
+   86  cd RTR105
+   87  ls
+   88  git add --all
+   89  git commit -m 20200110_15_15
+   90  git confing --global Dhruv510_dhruv "dhruv"
+   91  git config --global Dhruv510_dhruv "dhruv"
+   92  git config --global user_dhruv "dhruv"
+   93  git config --global "dhruv"
+   94  git config --global 
+   95  git config --global Dhruv510 "dhruv"
+   96  git config --global dhruvsavani510@gmail.com "dhruv"
+   97  git config --global user.email dhruvsavani510@gmail.com 
+   98  git commit -m 20200110_15_15
+   99  git push 
+  100  git status
+  101  cd
+  102  cd ..
+  103  pwd
+  104  cd ..
+  105  pwd
+  106  cd
+  107  pwd
+  108  cd RTR108
+  109  ls
+  110  cd RTR105
+  111  git add --all
+  112  git commit -m 20200110_15_32
+  113  git push
+  114  cd
+  115  sudo apt get install gcc
+  116  sudo apt install gcc
+  117  sudo apt install python3
+  118  sudo apt install nano
+  119  clear
+  120  pwd
+  121  clear
+  122  rm rf RTR105
+  123  ls -la
+  124  ls
+  125  rmdir rf RTR105
+  126  rm -rf RTR105
+  127  ls
+  128  history
+  129  cd RTR105
+  130  cd ..
+  131  sudo apt-get update
+  132  sudo apt-get update git
+  133  sudo apt-get install git
+  134  sudo apt-get update git
+  135  cd RTR105
+  136  mkdir GCC
+  137  cd GCC/
+  138  nano code.sh
+  139  nano code.c
+  140  cat code.sh
+  141  cat code.c
+  142  pwd
+  143  echo $path
+  144  echo $PATH
+  145  chmod 744 code.sh
+  146  ls -lt
+  147  ./code.sh
+  148  echo $?
+  149  nano code.sh
+  150  chmod 744 code.sh
+  151  ./code.sh
+  152  cat code.sh
+  153  ls -lt
+  154  cat code.c
+  155  man gcc
+  156  pwd
+  157  ls -lt
+  158  gcc code.c
+  159  echo $?
+  160  ls -lt
+  161  cat code.c
+  162  cat a.out
+  163  ls -lt
+  164  ./a.out
+  165  echo $?
+  166  python
+  167  python3
+  168  nano code.c
+  169  cat code.c
+  170  ls -lt
+  171  gcc code.c
+  172  ls -lt
+  173  nano code.c
+  174  echo$?
+  175  echo $?
+  176  gcc code.c
+  177  echo $?
+  178  ls -lt
+  179  ./a.out
+  180  nano code.c
+  181  uname -a
+  182  echo $?
+  183  echo $0
+  184  ls -lt
+  185  re a.out
+  186  rm a.out
+  187  ls -lt
+  188  mv code.c code1.c
+  189  ls -lt
+  190  gcc code1.c
+  191  ls -lt
+  192  nano code1.c
+  193  gcc code1.c
+  194  nano code1.c
+  195  gcc code1.c
+  196  ls -lt
+  197  gcc code1.c -o code1.out
+  198  ls -lt
+  199  cat code1.c
+  200  nano code1.c
+  201  cat code1.c
+  202  pwd
+  203  sudo apt-get install gui
+  204  nano code1.c
+  205  gcc code1.c
+  206  l
+  207  ls -lt
+  208  gcc code1.c
+  209  nano code1.c
+  210  gcc code1.c
+  211  echo $?
+  212  cat code1.c
+  213  nano helloworld.c
+  214  gcc helloworld.c
+  215  nano helloworld.c
+  216  gcc helloworld.c -o helloworld.out
+  217  ls -lt
+  218  nano helloworld.c
+  219  gcc helloworld.c -o helloworld.out
+  220  ls -lt
+  221  echo $?
+  222  ./helloworld.out
+  223  nano helloworld.c
+  224  ./helloworld.out
+  225  ls -lt
+  226  gcc helloworld.c -o helloworld.out
+  227  ./helloworld.out
+  228  nano helloworld.c
+  229  gcc helloworld.c -o helloworld.out
+  230  ./helloworld.out
+  231  nano helloworld.c
+  232  ./helloworld.out
+  233  gcc helloworld.c -o helloworld.out
+  234  ./helloworld.out
+  235  nano helloworld.c
+  236  echo $?
+  237  gcc helloworld.c -o helloworld.out
+  238  ./helloworld.out
+  239  nano helloworld.c
+  240  gcc helloworld.c -o helloworld.out
+  241  ./helloworld.out
+  242  nano helloworld.c
+  243  gcc helloworld.c -o helloworld.out
+  244  ./helloworld.out
+  245  echo $?
+  246  nano helloworld.c
+  247  ./helloworld.out
+  248  echo $?
+  249  gcc helloworld.c -o helloworld.out
+  250  echo $?
+  251  ./helloworld.out
+  252  echo $?
+  253  nano helloworld.c
+  254  gcc helloworld.c -o helloworld.out
+  255  ./helloworld.out
+  256  echo $?
+  257  nano helloworld.c
+  258  gcc helloworld.c -o helloworld.out
+  259  ./helloworld.out
+  260  echo $?
+  261  ls -lt
+  262  rm *.out
+  263  ls -lt
+  264  cd ..
+  265  pwd
+  266  ls -lta
+  267  git config --global user.email dhruvsavani510@gmail.com
+  268  git add .
+  269  git commit -m "20200310_13_41"
+  270  history > history_20200310_13_42.txt
